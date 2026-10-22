@@ -1,4 +1,4 @@
-# Temperature Converter
+# Temperature Converter - Main Version
 
 ## Purpose
 A small Python program designed for practicing Git and GitHub workflows by converting temperatures from Celsius to Fahrenheit.
